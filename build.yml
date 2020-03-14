@@ -1,0 +1,4 @@
+image: os-crun
+org: dengleros
+arches:
+  - amd64
